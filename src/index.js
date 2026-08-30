@@ -1,6 +1,5 @@
 import ReactDOM from "react-dom/client";
 import Parent from "./Component/Parent";
-import Child from  "./Component/Child";
 import "./index.css";
 import App from "./App";
 
